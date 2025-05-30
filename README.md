@@ -56,22 +56,20 @@ I'm a recent Software Engineering graduate with a strong passion for building in
 
 ### 🛠️ Other Tech Stack:
 - HTML5, CSS3, JavaScript (ES6+)
-- ASP.NET Core, Entity Framework Core, SQL Server
 - Postman, Figma (Basic UI Understanding)
 
 ---
 
 ### 📂 Projects:
 - **FastCart** – E-commerce UI with product filtering and cart logic
-- **Reservation App** – Graduation project for table booking and restaurant management
-
+  
 🔗 [Check out my GitHub Projects](https://github.com/Kyrillos-Samy1)
 
 ---
 
 ### 📬 Contact Me:
 - 📧 Email: kyrillossamy@outlook.com  
-- 📞 Phone: +20 127 147 0997  
+- 📞 Phone: +20-1271470997  
 - 🌐 LinkedIn: [https://www.linkedin.com/in/kyrillos-samy-38b110222]([https://linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222))
 
 ---
