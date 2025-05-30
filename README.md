@@ -70,7 +70,7 @@ I'm a recent Software Engineering graduate passionate about building interactive
 ### 📬 Contact Me:
 - 📧 Email: kyrillossamy@outlook.com  
 - 📞 Phone: +20-1271470997  
-- 🌐 LinkedIn: [linkedin.com/in/kyrillossamy]([https://linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222))
+- 🌐 LinkedIn: [linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222)
 
 ---
 
