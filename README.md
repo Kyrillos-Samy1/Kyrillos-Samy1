@@ -21,6 +21,13 @@ I'm a Junior Software Engineer passionate about building interactive user interf
 
 ---
 
+### 💼 Training Experience  
+- Completed an internship program at **Creativa Hubs**, held at the **National Telecommunication Institute (NTI)**.  
+- Gained practical knowledge and hands-on skills in **Web Design** using modern web technologies.
+- [View Training Certificate](https://drive.google.com/your-certificate-link-here)
+
+---
+
 ### 📂 Projects:
 - **FastCart** – E-commerce UI with product filtering and cart logic
   
