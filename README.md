@@ -13,7 +13,7 @@ I'm a recent Software Engineering graduate passionate about building interactive
 | JSX, Components (Functional & Class) | useState, useEffect, useContext | React Query             | React Router v6+      |
 | Props & State, Event Handling | Lifting State Up            | REST API (Axios, Fetch)  | Protected & Nested Routes |
 | Lists & Keys, Conditional Rendering | Redux (Toolkit & DevTools) | Async/Await + useEffect  |                       |
-| Forms Handling & Validation (Formik) | TypeScript (Basic)         | Error & Loading States   |                       |
+| Forms Handling & Validation (Formik) | TypeScript         | Error & Loading States   |                       |
 
 | UI & Styling                | Tooling                    | Advanced Topics          | Testing (Basic)       |
 |----------------------------|----------------------------|--------------------------|-----------------------|
