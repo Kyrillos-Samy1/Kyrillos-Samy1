@@ -1,16 +1,79 @@
-## Hi there 👋
 
-<!--
-**Kyrillos-Samy1/Kyrillos-Samy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kyrillos Samy
 
-Here are some ideas to get you started:
+## 🧑‍💻 Junior Frontend Developer | React.js Focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a recent Software Engineering graduate with a strong passion for building interactive user interfaces using React.js. I'm continuously improving my skills by building real-world projects and exploring modern web technologies.
+
+---
+
+### ⚛️ React.js Skills
+
+#### 🚀 Core Concepts:
+- JSX, Components (Functional & Class)
+- Props & State, Event Handling
+- Lists & Keys, Conditional Rendering
+- Forms Handling & Validation (including Formik)
+
+#### 🧠 State Management:
+- useState, useEffect, useContext
+- Lifting State Up
+- Redux (Toolkit & DevTools)
+- Zustand / Recoil (Basic knowledge)
+
+#### 🌐 Data Fetching:
+- React Query
+- REST API Integration using Axios & Fetch
+- Async/Await + useEffect
+- Error & Loading State Management
+
+#### 🧭 Routing:
+- React Router v6+
+- Protected Routes
+- Nested Routing
+
+#### 🎨 UI & Styling:
+- Responsive Design (Flexbox, Grid, Media Queries)
+- Styled Components, Tailwind CSS, Bootstrap
+- Component Reusability & Clean Design Patterns
+- Animations with Framer Motion
+
+#### 🧰 Tooling:
+- Vite / Create React App (CRA)
+- Git & GitHub, VS Code
+- Chrome DevTools, React Dev Tools
+
+#### 📦 Advanced Topics:
+- Custom Hooks, useRef, useMemo
+- Lazy Loading
+- Context API (Advanced Use Cases)
+
+#### 🧪 Testing (Basic knowledge):
+- React Testing Library, Jest
+- Mocking API Calls
+
+---
+
+### 🛠️ Other Tech Stack:
+- HTML5, CSS3, JavaScript (ES6+)
+- ASP.NET Core, Entity Framework Core, SQL Server
+- Postman, Figma (Basic UI Understanding)
+
+---
+
+### 📂 Projects:
+- **FastCart** – E-commerce UI with product filtering and cart logic
+- **Reservation App** – Graduation project for table booking and restaurant management
+
+🔗 [Check out my GitHub Projects](https://github.com/Kyrillos-Samy1)
+
+---
+
+### 📬 Contact Me:
+- 📧 Email: kyrillossamy@outlook.com  
+- 📞 Phone: +20 127 147 0997  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/kyrillos-samy-38b110222]([https://linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222))
+
+---
+
+> "Still learning, still building, always improving."
