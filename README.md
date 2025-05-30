@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Junior Frontend Developer | React.js Focused
 
-I'm a recent Software Engineering graduate passionate about building interactive user interfaces using React.js. I'm continuously improving my skills by building real-world projects and exploring modern web technologies.
+I'm a Junior Software Engineer passionate about building interactive user interfaces using React.js. I continuously improve my skills by building real-world projects and exploring modern web technologies.
 
 ---
 
