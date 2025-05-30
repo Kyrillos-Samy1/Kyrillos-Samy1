@@ -8,17 +8,16 @@ I'm a recent Software Engineering graduate passionate about building interactive
 
 ### 🖥️ Frontend Skills
 
-| HTML5, CSS3, JavaScript (ES6+) | Responsive Design (Flexbox, Grid, Media Queries) | CSS Preprocessors (Sass, LESS) | JS Frameworks & Libraries (React, Vue, Angular basics) |
+| HTML5, CSS3, JavaScript (ES6+), TypeScript | Responsive Design (Flexbox, Grid, Media Queries) | CSS Preprocessors (Sass, LESS) | JS Frameworks & Libraries (React) |
 |-------------------------------|-------------------------------------------------|-------------------------------|-------------------------------------------------------|
-| State Management (Redux, Context API, Zustand) | UI Libraries (Material-UI, Bootstrap, Tailwind CSS) | Version Control (Git & GitHub) | Package Managers (npm, Yarn)                         |
-| Build Tools (Webpack, Vite, Parcel) | Testing (Jest, React Testing Library, Cypress basics) | Debugging (Chrome DevTools) | REST APIs & AJAX (Fetch API, Axios)                   |
-| Performance Optimization & Lazy Loading | Accessibility (ARIA standards) | SEO Basics for SPAs | Deployment (Vercel, Netlify, Cloudinary)               |
-| UI/UX Basics (Figma, Adobe XD - basic) |                             |                               |                                                       |
+| State Management (Redux, Context API) | UI Libraries (Material-UI, Bootstrap, Tailwind CSS) | Version Control (Git & GitHub) | Package Managers (npm)                         |
+| Build Tools (Webpack, Vite) | Testing (Jest) | Debugging (Chrome DevTools) | REST APIs & AJAX (Fetch API, Axios)                   |
+| Performance Optimization & Lazy Loading | Accessibility (ARIA standards) | SEO Basics for SPAs | Deployment (Vercel, Cloudinary)               |
 
 ---
 
 ### 🛠️ Other Tech Stack:
-- Postman, TypeScript (Basic), Figma (Basic UI Understanding)
+- Postman, Figma (Basic UI Understanding)
 
 ---
 
