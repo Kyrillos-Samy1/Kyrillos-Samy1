@@ -9,48 +9,19 @@ I'm a recent Software Engineering graduate passionate about building interactive
 
 ### ⚛️ React.js Skills
 
-#### 🚀 Core Concepts:
-- JSX, Components (Functional & Class)
-- Props & State, Event Handling
-- Lists & Keys, Conditional Rendering
-- Forms Handling & Validation (including Formik)
+| Core Concepts                | State Management            | Data Fetching             | Routing               |
+|-----------------------------|----------------------------|--------------------------|-----------------------|
+| JSX, Components (Functional & Class) | useState, useEffect, useContext | React Query             | React Router v6+      |
+| Props & State, Event Handling | Lifting State Up            | REST API (Axios, Fetch)  | Protected & Nested Routes |
+| Lists & Keys, Conditional Rendering | Redux (Toolkit & DevTools) | Async/Await + useEffect  |                       |
+| Forms Handling & Validation (Formik) | Zustand / Recoil (Basic)   | Error & Loading States   |                       |
 
-#### 🧠 State Management:
-- useState, useEffect, useContext
-- Lifting State Up
-- Redux (Toolkit & DevTools)
-- Zustand / Recoil (Basic knowledge)
-
-#### 🌐 Data Fetching:
-- React Query
-- REST API Integration using Axios & Fetch
-- Async/Await + useEffect
-- Error & Loading State Management
-
-#### 🧭 Routing:
-- React Router v6+
-- Protected Routes
-- Nested Routing
-
-#### 🎨 UI & Styling:
-- Responsive Design (Flexbox, Grid, Media Queries)
-- Styled Components, Tailwind CSS, Bootstrap
-- Component Reusability & Clean Design Patterns
-- Animations with Framer Motion
-
-#### 🧰 Tooling:
-- Vite / Create React App (CRA)
-- Git & GitHub, VS Code
-- Chrome DevTools, React Dev Tools
-
-#### 📦 Advanced Topics:
-- Custom Hooks, useRef, useMemo
-- Lazy Loading
-- Context API (Advanced Use Cases)
-
-#### 🧪 Testing (Basic knowledge):
-- React Testing Library, Jest
-- Mocking API Calls
+| UI & Styling                | Tooling                    | Advanced Topics          | Testing (Basic)       |
+|----------------------------|----------------------------|--------------------------|-----------------------|
+| Responsive Design (Flexbox, Grid, Media Queries) | Vite / CRA                | Custom Hooks (useRef, useMemo) | React Testing Library |
+| Styled Components, Tailwind CSS, Bootstrap | Git & GitHub, VS Code      | Lazy Loading             | Jest                  |
+| Component Reusability & Clean Design Patterns | Chrome DevTools, React Dev Tools | Context API (Advanced)   | Mocking API Calls      |
+| Animations with Framer Motion |                            |                          |                       |
 
 ---
 
