@@ -24,7 +24,7 @@ I'm a Junior Software Engineer passionate about building interactive user interf
 ### 💼 Experience
 
 **Front-end Developer Course**  
-*Dec 1, 2024 – Mar 1, 2025*  
+*Dec 1, 2024 – Mar 31, 2025*  
 - Completed a self-paced React.js Developer course focused on modern front-end technologies.  
 - Gained experience with React.js, Redux, TypeScript, Tailwind CSS, API Integration, and Performance Optimization.
 
