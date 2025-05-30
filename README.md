@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Junior Frontend Developer | React.js Focused
 
-I'm a recent Software Engineering graduate with a strong passion for building interactive user interfaces using React.js. I'm continuously improving my skills by building real-world projects and exploring modern web technologies.
+I'm a recent Software Engineering graduate passionate about building interactive user interfaces using React.js. I'm continuously improving my skills by building real-world projects and exploring modern web technologies.
 
 ---
 
@@ -70,7 +70,7 @@ I'm a recent Software Engineering graduate with a strong passion for building in
 ### 📬 Contact Me:
 - 📧 Email: kyrillossamy@outlook.com  
 - 📞 Phone: +20-1271470997  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/kyrillos-samy-38b110222]([https://linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222))
+- 🌐 LinkedIn: [linkedin.com/in/kyrillossamy]([https://linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222))
 
 ---
 
