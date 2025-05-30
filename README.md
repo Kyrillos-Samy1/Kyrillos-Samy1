@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Kyrillos Samy
 
 ## 🧑‍💻 Junior Frontend Developer | React.js Focused
@@ -14,12 +13,12 @@ I'm a recent Software Engineering graduate passionate about building interactive
 | JSX, Components (Functional & Class) | useState, useEffect, useContext | React Query             | React Router v6+      |
 | Props & State, Event Handling | Lifting State Up            | REST API (Axios, Fetch)  | Protected & Nested Routes |
 | Lists & Keys, Conditional Rendering | Redux (Toolkit & DevTools) | Async/Await + useEffect  |                       |
-| Forms Handling & Validation (Formik) | | Error & Loading States   |                       |
+| Forms Handling & Validation (Formik) | TypeScript (Basic)         | Error & Loading States   |                       |
 
 | UI & Styling                | Tooling                    | Advanced Topics          | Testing (Basic)       |
 |----------------------------|----------------------------|--------------------------|-----------------------|
 | Responsive Design (Flexbox, Grid, Media Queries) | Vite / CRA                | Custom Hooks (useRef, useMemo) | React Testing Library |
-| Styled Components, Tailwind CSS, Bootstrap | Git & GitHub, VS Code      | Lazy Loading             | Jest                  |
+| Styled Components, Tailwind CSS, Bootstrap | Git & GitHub (Branching, PRs) | Lazy Loading             | Jest                  |
 | Component Reusability & Clean Design Patterns | Chrome DevTools, React Dev Tools | Context API (Advanced)   | Mocking API Calls      |
 | Animations with Framer Motion |                            |                          |                       |
 
