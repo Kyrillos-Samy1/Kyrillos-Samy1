@@ -6,27 +6,19 @@ I'm a recent Software Engineering graduate passionate about building interactive
 
 ---
 
-### ⚛️ React.js Skills
+### 🖥️ Frontend Skills
 
-| Core Concepts                | State Management            | Data Fetching             | Routing               |
-|-----------------------------|----------------------------|--------------------------|-----------------------|
-| JSX, Components (Functional & Class) | useState, useEffect, useContext | React Query             | React Router v6+      |
-| Props & State, Event Handling | Lifting State Up            | REST API (Axios, Fetch)  | Protected & Nested Routes |
-| Lists & Keys, Conditional Rendering | Redux (Toolkit & DevTools) | Async/Await + useEffect  |                       |
-| Forms Handling & Validation (Formik) | TypeScript         | Error & Loading States   |                       |
-
-| UI & Styling                | Tooling                    | Advanced Topics          | Testing (Basic)       |
-|----------------------------|----------------------------|--------------------------|-----------------------|
-| Responsive Design (Flexbox, Grid, Media Queries) | Vite / CRA                | Custom Hooks (useRef, useMemo) | React Testing Library |
-| Styled Components, Tailwind CSS, Bootstrap | Git & GitHub (Branching, PRs) | Lazy Loading             | Jest                  |
-| Component Reusability & Clean Design Patterns | Chrome DevTools, React Dev Tools | Context API (Advanced)   | Mocking API Calls      |
-| Animations with Framer Motion | Vercel                           |                          |                       |
+| HTML5, CSS3, JavaScript (ES6+) | Responsive Design (Flexbox, Grid, Media Queries) | CSS Preprocessors (Sass, LESS) | JS Frameworks & Libraries (React, Vue, Angular basics) |
+|-------------------------------|-------------------------------------------------|-------------------------------|-------------------------------------------------------|
+| State Management (Redux, Context API, Zustand) | UI Libraries (Material-UI, Bootstrap, Tailwind CSS) | Version Control (Git & GitHub) | Package Managers (npm, Yarn)                         |
+| Build Tools (Webpack, Vite, Parcel) | Testing (Jest, React Testing Library, Cypress basics) | Debugging (Chrome DevTools) | REST APIs & AJAX (Fetch API, Axios)                   |
+| Performance Optimization & Lazy Loading | Accessibility (ARIA standards) | SEO Basics for SPAs | Deployment (Vercel, Netlify, Cloudinary)               |
+| UI/UX Basics (Figma, Adobe XD - basic) |                             |                               |                                                       |
 
 ---
 
 ### 🛠️ Other Tech Stack:
-- HTML5, CSS3, JavaScript (ES6+)
-- Postman, Figma (Basic UI Understanding)
+- Postman, TypeScript (Basic), Figma (Basic UI Understanding)
 
 ---
 
