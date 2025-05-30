@@ -21,9 +21,17 @@ I'm a Junior Software Engineer passionate about building interactive user interf
 
 ---
 
-### 💼 Training Experience  
-- Completed an internship program at **Creativa Hubs**, held at the **National Telecommunication Institute (NTI)**.  
-- Gained practical knowledge and hands-on skills in **Web Design** using modern web technologies.
+### 💼 Experience
+
+**Front-end Developer Course**  
+*Dec 1, 2024 – Mar 1, 2025*  
+- Completed a self-paced React.js Developer course focused on modern front-end technologies.  
+- Gained experience with React.js, Redux, TypeScript, Tailwind CSS, API Integration, and Performance Optimization.
+
+**Web Designer Intern • National Telecommunication Institute**  
+*Sep 1, 2024 – Oct 15, 2024*  
+- Studied HTML5, CSS3, Bootstrap, JavaScript, Responsive Design, and jQuery.  
+- Developed and designed web pages using front-end technologies.
 - [View Training Certificate](https://drive.google.com/your-certificate-link-here)
 
 ---
