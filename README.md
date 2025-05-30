@@ -4,6 +4,8 @@
 
 I'm a Junior Software Engineer passionate about building interactive user interfaces using React.js. I continuously improve my skills by building real-world projects and exploring modern web technologies.
 
+I am seeking a Junior Frontend Developer position where I can apply my skills in building interactive and responsive web applications. I am eager to learn, grow, and contribute to a dynamic team while enhancing my expertise in FE development.
+
 ---
 
 ### 🖥️ Frontend Skills
