@@ -20,7 +20,7 @@ I'm a recent Software Engineering graduate passionate about building interactive
 | Responsive Design (Flexbox, Grid, Media Queries) | Vite / CRA                | Custom Hooks (useRef, useMemo) | React Testing Library |
 | Styled Components, Tailwind CSS, Bootstrap | Git & GitHub (Branching, PRs) | Lazy Loading             | Jest                  |
 | Component Reusability & Clean Design Patterns | Chrome DevTools, React Dev Tools | Context API (Advanced)   | Mocking API Calls      |
-| Animations with Framer Motion |                            |                          |                       |
+| Animations with Framer Motion | Vercel                           |                          |                       |
 
 ---
 
