@@ -32,7 +32,7 @@ I'm a Junior Software Engineer passionate about building interactive user interf
 *Sep 1, 2024 – Oct 15, 2024*  
 - Studied HTML5, CSS3, Bootstrap, JavaScript, Responsive Design, and jQuery.  
 - Developed and designed web pages using front-end technologies.
-- [View Training Certificate](https://drive.google.com/your-certificate-link-here)
+- [View Training Certificate](https://drive.google.com/file/d/12K8mGsA1Da_DFZUzpvCxlHYvpiwlMpe8/view?usp=drive_link)
 
 ---
 
