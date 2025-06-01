@@ -23,7 +23,7 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 
 ---
 
-### 💼 Experience
+### 🎓 Courses & Internships
 
 **Front-end Developer Course**  
 *Dec 1, 2024 – Mar 31, 2025*  
