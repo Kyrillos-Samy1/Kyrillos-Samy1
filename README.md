@@ -40,8 +40,8 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 
 ### 📂 Projects:
 - **FastCart** – E-commerce UI with product filtering and cart logic
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-cart-831t.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-FastCart-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/FastCart)
+- [![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-cart-831t.vercel.app/)
+- [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-FastCart-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/FastCart)
   
 🔗 **[Check out my GitHub Projects](https://github.com/Kyrillos-Samy1?tab=repositories)**
 
