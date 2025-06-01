@@ -41,7 +41,7 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 ### 📂 Projects:
 - **FastCart** – E-commerce UI with product filtering and cart logic
   
-🔗 [Check out my GitHub Projects](https://github.com/Kyrillos-Samy1)
+🔗 [Check out my GitHub Projects](https://github.com/Kyrillos-Samy1?tab=repositories)
 
 ---
 
