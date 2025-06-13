@@ -43,8 +43,8 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-cart-831t.vercel.app/)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-FastCart-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/FastCart)
 
-- **Gymo** – Fitness web app to explore exercises with filtering, search, and detailed pages
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Gymo-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://gymo-sigma.vercel.app/)
+- **Gymo** – Fitness web app to explore exercises with filtering, search, and detailed pages  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Gymo-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://gymo-sigma.vercel.app/)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Gymo-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/Gymo/tree/main)
   
 🔗 **[Check out my GitHub Projects](https://github.com/Kyrillos-Samy1?tab=repositories)**
