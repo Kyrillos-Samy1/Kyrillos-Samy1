@@ -55,6 +55,18 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 
 ---
 
+### 🔐 Legal Notice & Usage Policy
+
+All projects published on this GitHub account are intended strictly for **educational, learning, and personal portfolio purposes**.  
+**Kyrillos Samy Doksh Hanna** creates and maintains all source code, design assets, and project structures.
+
+🚫 **Unauthorized use, reproduction, or redistribution of any project for commercial gain is strictly prohibited.**  
+📄 Each repository is licensed under the [MIT License](./LICENSE) unless stated otherwise.
+
+> For commercial inquiries, collaborations, or special permissions, please get in touch with me directly at: `kyrillossamy@outlook.com`
+
+---
+
 ### 💬 Contact
 
 Crafted with vision and style by **Kyrillos Samy Doksh Hanna**  
