@@ -47,7 +47,7 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Gymo-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://gymo-sigma.vercel.app/)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Gymo-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/Gymo/tree/main)
 
-- **My Portfolio** – Personal website showcasing projects, experience, and a contact button with stunning UI/UX
+- **My Portfolio** – Personal website showcasing projects, experience, and a contact button with stunning UI/UX   
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Gymo-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-three-16.vercel.app/)   
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Gymo-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/My-Portfolio/tree/main)   
 
