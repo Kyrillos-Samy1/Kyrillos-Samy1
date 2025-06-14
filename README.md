@@ -55,10 +55,13 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 
 ---
 
-### 📬 Contact Me:
-- 📧 Email: kyrillossamy@outlook.com  
-- 📞 Phone: +20-1271470997  
-- 🌐 LinkedIn: [linkedin.com/in/kyrillossamy](https://www.linkedin.com/in/kyrillos-samy-38b110222)
+### 📬 Contact:
+
+Crafted with vision and style by **Kyrillos Samy Doksh Hanna**  
+📧 Email: `kyrillossamy@outlook.com`  
+📱 Phone: `+20-1271470997`  
+🎖️ Nickname: `Empire Coder`  
+🌍 Based in Egypt
 
 ---
 
