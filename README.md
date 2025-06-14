@@ -55,7 +55,7 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 
 ---
 
-### 📬 Contact:
+### 💬 Contact
 
 Crafted with vision and style by **Kyrillos Samy Doksh Hanna**  
 📧 Email: `kyrillossamy@outlook.com`  
