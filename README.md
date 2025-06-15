@@ -10,16 +10,11 @@ I am seeking a Junior Frontend Developer position where I can apply my skills in
 
 ### 🖥️ Frontend Skills
 
-| HTML5, CSS3, JavaScript (ES6+), TypeScript | Responsive Design (Flexbox, Grid, Media Queries) | CSS Preprocessors (Sass, LESS) | JS Frameworks & Libraries (React) |
-|-------------------------------|-------------------------------------------------|-------------------------------|-------------------------------------------------------|
-| State Management (Redux, Context API) | UI Libraries (Material-UI, Bootstrap, Tailwind CSS) | Version Control (Git & GitHub) | Package Managers (npm)                         |
-| Build Tools (Webpack, Vite) | Testing (Jest) | Debugging (Chrome DevTools) | REST APIs & AJAX (Fetch API, Axios)                   |
-| Performance Optimization & Lazy Loading | Accessibility (ARIA standards) | SEO Basics for SPAs | Deployment (Vercel, Cloudinary)               |
-
----
-
-### 🛠️ Other Tech Stack:
-- Postman, Figma (Basic UI Understanding)
+| HTML5, CSS3, JavaScript (ES6+), TypeScript | Responsive Design (Flexbox, Grid, Media Queries) | Sass (CSS Preprocessor) | React.js, Next.js (SSR & Routing) |
+|-------------------------------|-------------------------------------------------|--------------------------|-----------------------------------|
+| State Management (Redux Toolkit, Context API) | UI Libraries (Tailwind CSS, Bootstrap, Styled Components, Framer Motion) | Version Control (Git, GitHub) | Package Managers (npm, yarn) |
+| Build Tools (Webpack, Vite) | Debugging (Chrome DevTools, React DevTools) | API & Data (Fetch, Axios, React Query) | SEO & Performance (Lazy Loading, SSR) |
+| Accessibility (ARIA, Semantic HTML) | Deployment (Vercel, Cloudinary) | Testing (Jest - basic) | Tools (VS Code, Postman, Figma) |
 
 ---
 
