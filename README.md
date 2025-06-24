@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kyrillos Samy
 
-## 🧑‍💻 Junior Frontend Developer | React.js Focused
+## 🧑‍💻 Junior Frontend Developer | React.js Focused React.js Developer | Learning Node.js | NTI & Software Engineering Graduate
 
 I'm a Junior Software Engineer passionate about building interactive user interfaces using React.js. I continuously improve my skills by building real-world projects and exploring modern web technologies.
 
