@@ -4,7 +4,7 @@
 
 I'm a Software Engineer passionate about building interactive user interfaces using **React.js & Next.js**. I continuously improve my skills by building real-world projects and exploring modern web technologies.
 
-I am seeking a Frontend Developer position where I can apply my skills in building interactive and responsive web applications. I am eager to learn, grow, and contribute to a dynamic team while enhancing my expertise in Frontend development.
+I am seeking **a Frontend Developer position** where I can apply my **1 year** of professional experience in building interactive and responsive web applications. I am eager to learn, grow, and contribute to a dynamic team while enhancing my expertise in Frontend development. With a proven ability to deliver clean, scalable, and high-performance solutions, I aim to add real value to innovative projects and continue expanding my technical skill set.
 
 ---
 
