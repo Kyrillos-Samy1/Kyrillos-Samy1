@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kyrillos Samy
 
-## 🧑‍💻 Frontend Developer | React.js, Next.js Focused | Learning Node.js | NTI & Software Engineering Graduate
+## 🧑‍💻 Frontend Developer | React.js, Next.js Focused | Learning Node.js | NTI & Computer Science Graduate
 
 I'm a Software Engineer passionate about building interactive user interfaces using **React.js & Next.js**. I continuously improve my skills by building real-world projects and exploring modern web technologies.
 
