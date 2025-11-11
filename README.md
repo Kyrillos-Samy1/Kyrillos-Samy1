@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kyrillos Samy
+# Hi, I'm Kyrillos Samy
 
-## 🧑‍💻 Frontend Developer | React.js, Next.js Focused | Learning Node.js | NTI & Computer Science Graduate
+## Frontend Developer | React.js, Next.js Focused | Learning Node.js | NTI & Computer Science Graduate
 
 I'm a Software Engineer passionate about building interactive user interfaces using **React.js & Next.js**. I continuously improve my skills by building real-world projects and exploring modern web technologies.
 
@@ -8,7 +8,7 @@ I am seeking **a Frontend Developer position** where I can apply my **1 year** o
 
 ---
 
-### 🖥️ Frontend Skills
+### Frontend Skills
 
 | HTML5, CSS3, JavaScript (ES6+), TypeScript | Responsive Design (Flexbox, Grid, Media Queries) | Sass (CSS Preprocessor) | React.js, Next.js (SSR & Routing) |
 |-------------------------------|-------------------------------------------------|--------------------------|-----------------------------------|
@@ -18,7 +18,7 @@ I am seeking **a Frontend Developer position** where I can apply my **1 year** o
 
 ---
 
-### 🎓 Courses & Internships
+### Courses & Internships
 
 **Front-end Developer Course**  
 *Dec 1, 2024 – Mar 31, 2025*  
@@ -33,7 +33,7 @@ I am seeking **a Frontend Developer position** where I can apply my **1 year** o
 
 ---
 
-### 📂 Projects:
+### Projects:
 - **FastCart** – E-commerce UI with product filtering and cart logic  
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-cart-omega.vercel.app/)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-FastCart-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/FastCart)
@@ -50,25 +50,25 @@ I am seeking **a Frontend Developer position** where I can apply my **1 year** o
 
 ---
 
-### 🔐 Legal Notice & Usage Policy
+### Legal Notice & Usage Policy
 
 All projects published on this GitHub account are intended strictly for **educational, learning, and personal portfolio purposes**.  
 **Kyrillos Samy Doksh Hanna** creates and maintains all source code, design assets, and project structures.
 
-🚫 **Unauthorized use, reproduction, or redistribution of any project for commercial gain is strictly prohibited.**  
-📄 Each repository is licensed under the [MIT License](./LICENSE) unless stated otherwise.
+**Unauthorized use, reproduction, or redistribution of any project for commercial gain is strictly prohibited.**  
+Each repository is licensed under the [MIT License](./LICENSE) unless stated otherwise.
 
 > For commercial inquiries, collaborations, or special permissions, please get in touch with me directly at: `kyrillossamy@outlook.com`
 
 ---
 
-### 💬 Contact
+### Contact
 
 Crafted with vision and style by **Kyrillos Samy Doksh Hanna**  
-📧 Email: `kyrillossamy@outlook.com`  
-📱 Phone: `+20-1271470997`  
-🎖️ Nickname: `Empire Coder`  
-🌍 Based in Egypt
+Email: `kyrillossamy@outlook.com`  
+Phone: `+20-1271470997`  
+Nickname: `Empire Coder`  
+Based in Egypt
 
 ---
 
