@@ -4,7 +4,7 @@
 
 I'm a Software Engineer passionate about building interactive user interfaces and robust backend systems. I specialize in **React.js, Next.js, and Node.js**, continuously improving my skills through real-world projects and modern web technologies.
 
-I am seeking **a Full Stack Developer position** where I can apply my **1 year** of professional experience in building interactive and scalable web applications. I am eager to learn, grow, and contribute to a dynamic team while enhancing my expertise in both Frontend and Backend development.
+I am seeking a **Full Stack Developer position** where I can apply my **1 year of professional experience in Frontend development** while contributing to scalable backend systems. I am eager to learn, grow, and collaborate with a dynamic team to enhance my expertise in both Frontend and Backend development.
 
 ---
 
