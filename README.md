@@ -43,8 +43,8 @@ I am seeking **a Full Stack Developer position** where I can apply my **1 year**
 ### Projects
 
 - **E-Commerce API** – Full-featured backend for an e-commerce platform (Node.js, Express, MongoDB)  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-api-express.vercel.app/)
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-FastCart-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/ecommerce-api-express)  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-ECommerceAPIs-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-api-express.vercel.app/)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-ECommerceAPIs-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/ecommerce-api-express)  
 
 - **FastCart** – E-commerce UI with product filtering and cart logic  
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-cart-omega.vercel.app/)  
