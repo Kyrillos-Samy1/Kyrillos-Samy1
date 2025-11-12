@@ -1,10 +1,10 @@
 # Hi, I'm Kyrillos Samy
 
-## Frontend Developer | React.js, Next.js Focused | Learning Node.js | NTI & Computer Science Graduate
+## Full Stack Developer | React.js, Next.js, Node.js | NTI & Computer Science Graduate
 
-I'm a Software Engineer passionate about building interactive user interfaces using **React.js & Next.js**. I continuously improve my skills by building real-world projects and exploring modern web technologies.
+I'm a Software Engineer passionate about building interactive user interfaces and robust backend systems. I specialize in **React.js, Next.js, and Node.js**, continuously improving my skills through real-world projects and modern web technologies.
 
-I am seeking **a Frontend Developer position** where I can apply my **1 year** of professional experience in building interactive and responsive web applications. I am eager to learn, grow, and contribute to a dynamic team while enhancing my expertise in Frontend development. With a proven ability to deliver clean, scalable, and high-performance solutions, I aim to add real value to innovative projects and continue expanding my technical skill set.
+I am seeking **a Full Stack Developer position** where I can apply my **1 year** of professional experience in building interactive and scalable web applications. I am eager to learn, grow, and contribute to a dynamic team while enhancing my expertise in both Frontend and Backend development.
 
 ---
 
@@ -18,33 +18,45 @@ I am seeking **a Frontend Developer position** where I can apply my **1 year** o
 
 ---
 
+### Backend Skills
+
+| Node.js, Express.js, RESTful API Development | MongoDB, Mongoose | JWT & Authentication | Bcrypt, Crypto |
+|-------------------------------|-----------------|-----------------|----------------|
+| API Testing (Postman) | Payment Integration (Stripe) | File Uploads & Media Hosting (Cloudinary, Multer, Sharp) | Error Handling & Validation (express-validator, sanitize, xss) |
+| Middleware, Routing, Controllers | Deployment (Vercel, MongoDB Atlas) | Security Best Practices (Helmet, CORS, HPP, Rate Limiting) | Version Control & Dev Tools (Git, ESLint, Prettier) |
+
+---
+
 ### Courses & Internships
 
 **Front-end Developer Course**  
 *Dec 1, 2024 – Mar 31, 2025*  
-- Completed a self-paced React.js Developer course focused on modern front-end technologies.  
-- Gained experience with React.js, Redux, TypeScript, Tailwind CSS, API Integration, and Performance Optimization.
+- Focused on React.js, Redux, TypeScript, Tailwind CSS, API Integration, and Performance Optimization.
 
 **Web Designer Intern • National Telecommunication Institute**  
 *Sep 1, 2024 – Oct 15, 2024*  
-- Studied HTML5, CSS3, Bootstrap, JavaScript, Responsive Design, and jQuery.  
-- Developed and designed web pages using front-end technologies.
+- Developed web pages using HTML5, CSS3, Bootstrap, JavaScript, Responsive Design, and jQuery.  
 - [View Training Certificate](https://drive.google.com/file/d/12K8mGsA1Da_DFZUzpvCxlHYvpiwlMpe8/view?usp=drive_link)
 
 ---
 
-### Projects:
+### Projects
+
+- **E-Commerce API** – Full-featured backend for an e-commerce platform (Node.js, Express, MongoDB)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-E-Commerce%20API-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/ecommerce-api-express)  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-E-Commerce%20API-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-api-express.vercel.app/)
+
 - **FastCart** – E-commerce UI with product filtering and cart logic  
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-FastCart-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-cart-omega.vercel.app/)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-FastCart-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/FastCart)
 
-- **Gymo** – Fitness web app to explore exercises with filtering, search, and detailed pages  
+- **Gymo** – Fitness web app with exercise filtering, search, and detailed pages  
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Gymo-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://gymo-sigma.vercel.app/)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Gymo-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/Gymo/tree/main)
 
-- **My Portfolio** – Personal website showcasing projects, experience, and a contact button with stunning UI/UX   
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-three-16.vercel.app/)   
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Portfolio-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/My-Portfolio/tree/main)   
+- **My Portfolio** – Personal website showcasing projects, experience, and a contact button  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-three-16.vercel.app/)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Portfolio-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/My-Portfolio/tree/main)  
 
 🔗 **[Check out my GitHub Projects](https://github.com/Kyrillos-Samy1?tab=repositories)**
 
