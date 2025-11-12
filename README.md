@@ -10,7 +10,7 @@ I am seeking **a Full Stack Developer position** where I can apply my **1 year**
 
 ### Frontend Skills
 
-| HTML5, CSS3, JavaScript (ES6+), TypeScript | Responsive Design (Flexbox, Grid, Media Queries) | Sass (CSS Preprocessor) | React.js, Next.js (SSR & Routing) |
+| HTML5, CSS3, JavaScript (ES6+), TypeScript | Responsive Design (Flexbox, Grid, Media Queries) | SCSS (CSS Preprocessor) | React.js, Next.js (SSR & Routing) |
 |-------------------------------|-------------------------------------------------|--------------------------|-----------------------------------|
 | State Management (Redux Toolkit, Context API) | UI Libraries (Tailwind CSS, Bootstrap, Styled Components, Framer Motion) | Version Control (Git, GitHub) | Package Managers (npm) |
 | Build Tools (Webpack, Vite) | Debugging (Chrome DevTools, React DevTools) | API & Data (Fetch, Axios, React Query) | SEO & Performance (Lazy Loading, SSR) |
