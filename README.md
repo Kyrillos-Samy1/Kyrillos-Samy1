@@ -29,14 +29,14 @@ I am seeking a **Full Stack Developer position** where I can apply my **1 year o
 
 ### Courses & Internships
 
-**Node.js – Build a Full E-Commerce REST APIs**  
+**Node.js – Build a Full E-Commerce REST APIs • Udemy**  
 *Oct 1, 2025 – Nov 12, 2025*  
 - Focused on backend development using Node.js, Express.js, MongoDB, JWT authentication, validation layers, and deployment best practices.  
 - [View Certificate](https://drive.google.com/file/d/12VSdO2s5J62b1eSwJTZhWw-k-9mH54HL/view?usp=sharing)
 
-**Front-end Developer Course**  
+**Front-end Developer Course • Self-Paced Study**  
 *Dec 1, 2024 – Mar 31, 2025*  
-- Focused on React.js, Redux, TypeScript, Tailwind CSS, API Integration, and Performance Optimization.
+- Focused on React.js, Next.js, Redux, TypeScript, Tailwind CSS, API Integration, and Performance Optimization.
 
 **Web Designer Intern • National Telecommunication Institute**  
 *Sep 1, 2024 – Oct 15, 2024*  
