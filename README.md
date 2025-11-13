@@ -48,7 +48,7 @@ I am seeking a **Full Stack Developer position** where I can apply my **1 year o
 ### Projects
 
 - **E-Commerce API** – Full-featured backend for an e-commerce platform (Node.js, Express, MongoDB)  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-ECommerce_APIs-2E8B57?style=for-the-badge&logoImage=https://upload.wikimedia.org/wikipedia/commons/8/88/Postman_(software)_logo.svg)](https://documenter.getpostman.com/view/41775437/2sB3WjyP5z#intro)    
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ECommerce_APIs-2E8B57?style=for-the-badge&logoImage=https://upload.wikimedia.org/wikipedia/commons/8/87/Postman_icon.svg)](https://documenter.getpostman.com/view/41775437/2sB3WjyP5z#intro)      
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-ECommerce_APIs-000?style=for-the-badge&logo=github)](https://github.com/Kyrillos-Samy1/ecommerce-api-express)  
 
 - **FastCart** – E-commerce UI with product filtering and cart logic  
