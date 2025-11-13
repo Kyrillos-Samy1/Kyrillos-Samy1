@@ -23,7 +23,7 @@ I am seeking a **Full Stack Developer position** where I can apply my **1 year o
 | Node.js, Express.js, RESTful API Development | MongoDB, Mongoose | JWT & Authentication | Bcrypt, Crypto | Email & Notifications |
 |---------------------------------------------|-----------------|--------------------|----------------|--------------------|
 | API Testing (Postman) | Payment Integration (Stripe) | File Uploads & Media Hosting (Cloudinary, Multer, Sharp) | Error Handling & Validation (express-validator, sanitize, xss) | Nodemailer, SMTP, Email Templates, SendGrid |
-| Middleware, Routing, Controllers | Deployment (Vercel, MongoDB Atlas) | Security Best Practices (Helmet, CORS, HPP, Rate Limiting) | Version Control & Dev Tools (Git, ESLint, Prettier) |
+| Middleware, Routing, Controllers | Deployment (Vercel, MongoDB Atlas) | Security Best Practices (Helmet, CORS, HPP, Rate Limiting) | Version Control & Dev Tools (Git, ESLint, Prettier) | - |
 
 ---
 
